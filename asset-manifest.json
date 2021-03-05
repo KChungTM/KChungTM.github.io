@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.29c1909d.chunk.css",
-    "main.js": "/static/js/main.837eaca6.chunk.js",
-    "main.js.map": "/static/js/main.837eaca6.chunk.js.map",
+    "main.css": "/static/css/main.20466096.chunk.css",
+    "main.js": "/static/js/main.f0c15eb6.chunk.js",
+    "main.js.map": "/static/js/main.f0c15eb6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.255dd2aa.js",
     "runtime-main.js.map": "/static/js/runtime-main.255dd2aa.js.map",
     "static/js/2.e3db99f1.chunk.js": "/static/js/2.e3db99f1.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.99c46c73.chunk.js": "/static/js/3.99c46c73.chunk.js",
     "static/js/3.99c46c73.chunk.js.map": "/static/js/3.99c46c73.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.29c1909d.chunk.css.map": "/static/css/main.29c1909d.chunk.css.map",
+    "static/css/main.20466096.chunk.css.map": "/static/css/main.20466096.chunk.css.map",
     "static/js/2.e3db99f1.chunk.js.LICENSE.txt": "/static/js/2.e3db99f1.chunk.js.LICENSE.txt",
     "static/media/Facebook.218c7630.svg": "/static/media/Facebook.218c7630.svg",
     "static/media/GitHub.8d09fcd2.svg": "/static/media/GitHub.8d09fcd2.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.255dd2aa.js",
     "static/js/2.e3db99f1.chunk.js",
-    "static/css/main.29c1909d.chunk.css",
-    "static/js/main.837eaca6.chunk.js"
+    "static/css/main.20466096.chunk.css",
+    "static/js/main.f0c15eb6.chunk.js"
   ]
 }
