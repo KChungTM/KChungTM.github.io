@@ -1,0 +1,39 @@
+.skilllabel {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    width: fit-content;
+    height: auto;
+    margin: 3% 7.5% 3% 7.5%;
+    z-index: 1;
+}
+
+.skill {
+    position: absolute;
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+    align-content: center;
+    background-color: #1B252B;
+    margin: 2.5% 2%% 1%;
+    padding: 5px 10px 5px 10px;
+    font-family: "Tuffy";
+    font-size: 2em;
+    color: #E7EAE6;
+}
+
+.background {
+    position: absolute;
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+    align-content: center;
+    background-color: #A9e7e5;
+    padding: 5px 10px 5px 10px;
+    margin: 7.5px 15px 0px 0px;
+    font-family: "Tuffy";
+    font-size: 2em;
+    color: #A9e7e5;
+    z-index: -1;
+}

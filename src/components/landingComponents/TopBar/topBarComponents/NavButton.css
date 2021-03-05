@@ -1,0 +1,17 @@
+.navButton {
+    color: #DEE1DD;
+    display: inline;
+    font-size: 1.75em;
+    margin: 0% 7.5% 2.5% 2.5%;
+    font-family: "Tuffy", "san serif";
+}
+
+a:hover {
+    color: #A9e7e5;
+    cursor: pointer;
+}
+
+a {
+    color: #DEE1DD;
+    text-decoration: inherit;
+}

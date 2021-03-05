@@ -1,0 +1,60 @@
+.social-container {
+    width: 10%;
+    height: 100%;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    z-index: 10;
+}
+
+.social-bar {
+    width: 30%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: #3d474d;
+    pointer-events: all
+}
+
+.social-bar::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 15px;
+    right: 10px;
+    z-index: -1;
+    background-color: #A9e7e5;
+}
+
+.social-bar:hover {
+    background-color: #1B252B;
+}
+
+.social-bar:hover {
+    opacity: 1;
+}
+
+img.social{
+    width: 60%;
+    margin: 25% 0% 25% 0%;
+    height: auto;
+}
+
+img.social:hover {
+    transform: scale(1.25);
+    cursor: pointer;
+}
+
+.credits {
+    color: #B0B6AE;
+    font-family: "Tauri";
+    letter-spacing: 0.25em;
+}
+

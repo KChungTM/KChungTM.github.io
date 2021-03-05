@@ -1,0 +1,13 @@
+.topBarDiv {
+    width: 100%;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.navButtonDiv {
+    width: 50%;
+    margin-right: 2.5%;
+    text-align: right;
+}

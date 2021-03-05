@@ -1,0 +1,37 @@
+.skills {
+    min-width: 100%;
+    min-height: 70vh;
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.skillheader {
+    margin-top: 5%;
+    margin-right: 10%;
+    height: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #E7EAE6;
+    font-size: 3em;
+    font-family: "Tuffy";
+}
+
+.line1 {
+   width: 200%; 
+   height: 5px;
+   margin-left: 75%;
+   background-color: #E7EAE6;
+}
+
+.labels {
+    margin-top: 2.5%;
+    margin-left: 2.5%;
+    display: flex;
+    justify-items: flex-start;
+    flex-wrap: wrap;
+    width: 70%;
+    height: 100%;
+}
